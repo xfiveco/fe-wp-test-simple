@@ -11,7 +11,7 @@ Convert the following designs to HTML5 / CSS3 / JavaScript  / WordPress.
 ![Xfive Gallery Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requirements
-1. Create project using new version of our custom development tool [Chisel](https://github.com/xfiveco/generator-chisel/issues/465). Check out the [documentation](https://rewrite-with-webpack-docs-redesign--getchisel.netlify.app/docs) for the new version.
+1. Create project using new version of our custom development tool [Chisel](https://github.com/xfiveco/generator-chisel/issues/465). Check out the [documentation](https://rewrite-with-webpack-docs-redesign--getchisel.netlify.app/docs) for the new version. (If you have troubles setting up Chisel, let us know before spending too much time on it. We can agree on a different approach to the test.)
 1. Convert design and make it responsive so it looks and works nice. The 1920px resolution of the design is a reference resolution we compare your conversion to.
 1. Create a hover effect for the image thumbnails.
 1. Create a simple custom overlay for photos *using JavaScript*. You can use an external vanilla JavaScript library for it. Don't use jQuery and jQuery plugins.

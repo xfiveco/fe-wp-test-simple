@@ -14,7 +14,7 @@ Convert the following designs to HTML5 / CSS3 / JavaScript  / WordPress.
 1. Create project using our custom development tool [Chisel](https://www.getchisel.co/). (If you have troubles [installing Chisel](https://www.getchisel.co/docs/installation), let us know before spending too much time on it. We can agree on a different approach to the test.)
 1. Convert design and make it responsive so it looks and works nice. The 1920px resolution of the design is a reference resolution we compare your conversion to.
 1. Create a hover effect for the image thumbnails.
-1. Create a simple custom overlay for photos *using JavaScript*. You can use an external vanilla JavaScript library for it. Don't use jQuery and jQuery plugins.
+1. Create a simple custom overlay for photos *using JavaScript*. Don't use external JavaScript libraries, jQuery or jQuery plugins.
 1. Allow to choose thumbnail shape from the 2 predefined shapes (circle, square) in the WordPress admin and enter enough sample images to demonstrate the effect.
 1. Set up a virtual host with your project repository name (eg. `yourname-fewp-test.test`) so we don't have search & replace URLs when testing your project.
 1. Store the whole WordPress installation into the test repository. Store a database dump to it as well and a zip with `upload` folder with images used in the project.
